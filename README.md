@@ -1,6 +1,4 @@
-# Security: 
-  Implements JWT authentication and authorization using Spring Security.
-=======
+
 # 🚀 Secure Banking Application API  
 
 ## 📌 Overview  
@@ -25,6 +23,7 @@ The **Secure Banking Application API** is a **Spring Boot-based** RESTful servic
 ✅ **RESTful API Endpoints** for easy integration  
 ✅ **Exception Handling & Logging**  
 
+---
 # Key Features:
 
  # User Management: 
@@ -39,6 +38,8 @@ The **Secure Banking Application API** is a **Spring Boot-based** RESTful servic
   Manages nominee details associated with user accounts.
   # Exception Handling: 
   Centralized mechanism to handle application exceptions.
+  # Security: 
+  Implements JWT authentication and authorization using Spring Security.
 
 ---
 
