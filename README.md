@@ -28,8 +28,8 @@ The **Secure Banking Application API** is a **Spring Boot-based** RESTful servic
 
 ### 📥 Clone Repository  
 ```bash
-git clone https://github.com/your-repo/banking-api.git
-cd banking-api
+git clone https://github.com/PravinTale/Secure-Banking-Application-APIs
+cd Secure-Banking-Application-APIs
 
 ⚙️ Configure Application
 Update application.properties with your database credentials and JWT settings.
