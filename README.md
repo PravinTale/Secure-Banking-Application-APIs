@@ -1,3 +1,4 @@
+![ER diagram Secure Banking](https://github.com/user-attachments/assets/486fea9b-3deb-4ae4-9987-352a5f49d2f9)
 
 # 🚀 Secure Banking Application API  
 
@@ -80,4 +81,5 @@ Endpoints for **user authentication and JWT token generation**.
   "userId": 101
 }  
 
->>>>>>> a8580b287763d70c611d3216be40df6eaffa579b
+![ER diagram Secure Banking](https://github.com/user-attachments/assets/4ab13303-cce2-4888-9a33-c21a23cfd76c)
+
